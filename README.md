@@ -31,7 +31,7 @@ As a Manager:
 
 Technologies Used  
 ---
-Java, Maven, JavaLin, Logging, Ajax, Postman ,PostgreSQL, JUnit, Log4J, HTML, CSS, Angular
+Java, Maven, Spring Boot, Spring Data JPA, Logging, Ajax, JDBC ,PostgreSQL, JUnit, HTML, CSS, Angular
 
 Environmentes  
 ---
