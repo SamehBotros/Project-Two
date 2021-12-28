@@ -22,7 +22,7 @@ As a Manager:
 -----
 1.	Can login and logout
 2.	Can view home page
-3.	Can approve / reject pending reimbursement requests
+3.	Can approve / reject pending reimbursement requests and send email after
 4.	Can view their pending reimbursement requests of all employee
 5.	Can view their resolved  reimbursement requests of all employee
 6.	Can view reimbursement requests of a specific employee 
