@@ -48,7 +48,7 @@ Open the GitHub Link [github](https://github.com/SamehBotros/Project-One.git) an
 3.	After the installation write the command > ng serve
 *  For Java : 
 1.	Open the folder on your IDE
-2.	from `src/main/resources` open `application.properties` file and add your email `spring.mail.username=xxxx@gmail.com` and from gmail fo to https://myaccount.google.com/security go to Signing in to Google choose App passwords inter your password press the select app and choose other to enter your app password press generate then copy the app password do to  `application.properties` past in `spring.mail.password=xxxxxx` 
+2.	To receive an email from `src/main/resources` open `application.properties` file and add your email `spring.mail.username=xxxx@gmail.com` and to genarate app password open the link  https://myaccount.google.com/security go to Signing in to Google and choose App passwords enter your gmail password then press the select app and choose other to enter your app password any name you want then press generate and copy the app password do to  `application.properties` past in `spring.mail.password=xxxxxx` 
 3.	Open file `RequestControlerMain.java`
 4.	Run the Javalin 4 server
 *  For PostgreSQL :
