@@ -48,12 +48,13 @@ Open the GitHub Link [github](https://github.com/SamehBotros/Project-One.git) an
 3.	After the installation write the command > ng serve
 *  For Java : 
 1.	Open the folder on your IDE
-2.	Open file `RequestControlerMain.java`
-3.	Run the Javalin 4 server
+2.	from `src/main/resources` open `application.properties` file and add your email and from
+3.	Open file `RequestControlerMain.java`
+4.	Run the Javalin 4 server
 *  For PostgreSQL :
-1.	From the Java folder open the file dbscript.sql on any editor 
-2.	Open the Postgres CLI and create database name `reimbursement`
-3.	Inside the reimbursement start copy and past from file dbscript.sql file as the same order
+5.	From the Java folder open the file dbscript.sql on any editor 
+6.	Open the Postgres CLI and create database name `reimbursement`
+7.	Inside the reimbursement start copy and past from file dbscript.sql file as the same order
 
 Usage
 ---
