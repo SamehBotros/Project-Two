@@ -66,7 +66,4 @@ To use the project you
 4.	Enter as a manager so can see all pending requests, all resolved request, specific employee history, you can approve or reject requests, see all the employee information and make rejestration for an employee
 
 
-Contributors
------
-Worked in group of two developers I did 80% of the project all backend exept the upload image and most of the frontend exept the upload image, Jasmine and Karma test 
 
